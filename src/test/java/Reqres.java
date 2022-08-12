@@ -25,3 +25,6 @@ public class Reqres extends Init {
         specifications().installSpecification(specifications().requestSpecification(URL),specifications().responseSpecification(200));
     }
 }
+
+
+
